@@ -5,7 +5,6 @@
       "scripts": [ "background.js" ]
    },
    "description": "Make all cookies permanant",
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhoJ3ONFlJSIVFws/3Pj0hYz5LhbOm8YeqiULdgnii+tG8wv0NG93c3S9T5ycrWjCLSRbija6aEq1++leH2H7uOlHweRGhosD/+62JsqdIjK38MG0PjkvYASM9VwGGnitabmKvauJVVwPWSGVOg0N2Kl4FLbNomtNgWoLxvBJKiOm7MCJYlJ3akmDQO60qocVZLcjFicMZP362DPPSjJ+ADKB1/faw6hJoUqAZwJ+u//bmkLL3DapfYewNEFxzMlT9YiDeWYNzvYe0IPhJPryg8IbA3aO/L9RU1PfW0oXNMUUxEUk04dFGGnJFY09ASv3NLUamxNgTEwrbKBwOUZFGwIDAQAB",
    "manifest_version": 2,
    "name": "Cookies Never Expire (including session)",
    "permissions": [ "cookies", "webRequest", "webRequestBlocking", "*://*/*" ],
